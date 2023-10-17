@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1 align="center">Hi, I'm Nikky 👋</h1>
-<h3 align="center">A full-stack developer, proficient in UI/UX and project management 👨‍💻</h3>
+<h1 align="center">Hi, I'm Anil. 👋</h1>
+<h3 align="center">A full-stack JavaScript Developer. 👨‍💻</h3>
 
 <br/>
 🌱 I am currently working on projects using latest Next.js 13.<br>💬 Ask me about anything, I am happy to help<br>📬 How to reach me : anilmagar.developer@gmail.com
